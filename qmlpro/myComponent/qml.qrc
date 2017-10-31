@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FirstComp.qml</file>
+        <file>BackgroudCol.qml</file>
+    </qresource>
+</RCC>
